@@ -1,0 +1,31 @@
+body {
+  background-color: #393e46;
+}
+
+.title {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ecca3;
+  text-align: center;
+}
+.body {
+  display: flex;
+  gap: 40px;
+  text-align: center;
+  justify-content: center;
+  margin: 30px;
+}
+.body p {
+  text-align: center;
+  font-family: "Lobster", cursive;
+  font-size: 2rem;
+  color: #4ecca3;
+}
+
+footer {
+  text-align: center;
+  margin-top: 80px;
+  font-family: "Lobster", cursive;
+}
